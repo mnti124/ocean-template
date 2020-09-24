@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mnti124/ocean-template.git/static/css/main.6698323d.chunk.css",
+    "main.js": "/mnti124/ocean-template.git/static/js/main.b19f017c.chunk.js",
+    "main.js.map": "/mnti124/ocean-template.git/static/js/main.b19f017c.chunk.js.map",
+    "runtime-main.js": "/mnti124/ocean-template.git/static/js/runtime-main.4c85f233.js",
+    "runtime-main.js.map": "/mnti124/ocean-template.git/static/js/runtime-main.4c85f233.js.map",
+    "static/js/2.39575343.chunk.js": "/mnti124/ocean-template.git/static/js/2.39575343.chunk.js",
+    "static/js/2.39575343.chunk.js.map": "/mnti124/ocean-template.git/static/js/2.39575343.chunk.js.map",
+    "index.html": "/mnti124/ocean-template.git/index.html",
+    "precache-manifest.080a4a16eadea858381b3bc8e2ce774e.js": "/mnti124/ocean-template.git/precache-manifest.080a4a16eadea858381b3bc8e2ce774e.js",
+    "service-worker.js": "/mnti124/ocean-template.git/service-worker.js",
+    "static/css/main.6698323d.chunk.css.map": "/mnti124/ocean-template.git/static/css/main.6698323d.chunk.css.map",
+    "static/js/2.39575343.chunk.js.LICENSE.txt": "/mnti124/ocean-template.git/static/js/2.39575343.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/mnti124/ocean-template.git/static/media/ocean.6f9cce6c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c85f233.js",
+    "static/js/2.39575343.chunk.js",
+    "static/css/main.6698323d.chunk.css",
+    "static/js/main.b19f017c.chunk.js"
+  ]
+}
